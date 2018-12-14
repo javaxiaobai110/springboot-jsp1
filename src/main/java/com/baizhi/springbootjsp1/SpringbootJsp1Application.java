@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringbootJsp1Application {
+    
+    //呵呵呵，我是在github上编译的，赶紧进行拉取
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootJsp1Application.class, args);
